@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\bin\Debug\net8.0\MinerZad.exe
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\bin\Debug\net8.0\MinerZad.deps.json
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\bin\Debug\net8.0\MinerZad.runtimeconfig.json
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\bin\Debug\net8.0\MinerZad.dll
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\bin\Debug\net8.0\MinerZad.pdb
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\MinerZad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\MinerZad.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\MinerZad.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\MinerZad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\MinerZad.dll
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\refint\MinerZad.dll
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\MinerZad.pdb
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\MinerZad.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Dictionary\MinerZad\obj\Debug\net8.0\ref\MinerZad.dll

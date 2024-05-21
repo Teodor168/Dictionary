@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonenUkazatel", "TelefonenUkazatel\TelefonenUkazatel.csproj", "{00147B84-89AB-4197-9E74-BE95C3BD777E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerZad", "MinerZad\MinerZad.csproj", "{4F739B2D-8F08-46C5-BC52-7AFDA78B2C3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00147B84-89AB-4197-9E74-BE95C3BD777E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00147B84-89AB-4197-9E74-BE95C3BD777E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00147B84-89AB-4197-9E74-BE95C3BD777E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00147B84-89AB-4197-9E74-BE95C3BD777E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F739B2D-8F08-46C5-BC52-7AFDA78B2C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F739B2D-8F08-46C5-BC52-7AFDA78B2C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F739B2D-8F08-46C5-BC52-7AFDA78B2C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F739B2D-8F08-46C5-BC52-7AFDA78B2C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB77FEA0-EDBC-413C-9F65-64F37089C4E4}
+	EndGlobalSection
+EndGlobal
